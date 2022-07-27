@@ -1,0 +1,18 @@
+img{
+    border-radius:50%;
+}
+
+hr{
+    border-top: 3px dashed black;
+}
+
+.text-color{
+    color:#37a7a7;
+    font-weight: bold;
+}
+.text-style{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.background{
+    background-color: #bce9e9aqua;
+}
